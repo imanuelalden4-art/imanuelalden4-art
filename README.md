@@ -4,7 +4,7 @@
 
 > **Building technology, one experiment at a time.**
 
-I'm a **Student Developer** who started learning programming around **2 years ago**.
+I am a **developer who is also a student**, having started learning programming **in 2024**.
 
 I use my GitHub as a personal laboratory — a place to build systems, experiment with technology, solve problems, and turn ideas into something real.
 
